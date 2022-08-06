@@ -1,0 +1,10 @@
+Devops is not a new tool or new technology  in the market.
+
+It is a new philosophy or culture or process to develop, release and maintenance of software or application or product with higher quality in very faster way.
+
+We can achieve by using automation tools.
+
+For any software product, two groups of engineers will work.
+
+Development Group
+Operations Group
